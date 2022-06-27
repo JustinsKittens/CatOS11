@@ -14,10 +14,36 @@ If you're on Windows 10, then you'll need a web browser once. Otherwise, you'll 
 For Windows 10, you can go to https://desktop.turbowarp.org and download the desktop version of Turbowarp. For anything else, go to https://turbowarp.org and use it from there.
 #### Addons ####
 So from Turbowarp click the Addons button in the top left and make sure you have these things enabled:
+Developer Tools
+    ENHANCE "CLEAN UP BLOCKS"
+File Drag and Drop
+    USE HD UPLOADS
+Pause Button
+Mouse Position
+HD Image Uploads
+    Original Size
+Variable Mananger
+Gamepad Support (If you want to use controllers in your app or game)
+Sprite Folders
+Block Switching
+   Every Option
+   Arguments in own custom block
+Remove Curved Stage Border
+Grab Single Block with Ctrl key
+Hide New Variables
+Extra Key Support
+   ENABLE EXPERIMENTAL KEYS
+   ENABLE SHIFT KEYS
+   ENABLE TURBOWARP KEYS
+Do Not Shift Pasted Items
+Duplicate scripts with Alt key
+Switch variables between "For all sprites" and "For this sprite only"
+Enable some other addons if you want to.
 
-
+### Sprites ###
 1 Icon sprite per app
     It must have 2 types: taskbar and desktop.
+    When you click it, it must send a broadcast named (appName)Open (Replace {appName} with the name of your app.)
     each type must have 3 states with these EXACT names:
     
              Taskbar  | Desktop
@@ -32,5 +58,18 @@ So from Turbowarp click the Addons button in the top left and make sure you have
     
 A background sprite
      It can be a GIF, multiple images, or just 1 image. Just make sure they are all COSTUMES not SPRITES.
+     To use multiple backgrounds, use code to switch costumes.
+     It must ALWAYS follow the dragBar sprite
      
+A "dragbar" sprite
+     It must be widthOfAppx21 in size
+     It must be set to draggable
+
+a "dragExit" sprite
+     It must have 3 states: X, XMouseHover, and XMouseClick
+     It must ALWAYS follow the dragBar sprite
+     When you click it, it must send a broadcast named {appName}Close (Replace {appName} with the name of your app.)
+       
+It can have other sprites, like buttons, a loading sprite, etc.
+       
        
