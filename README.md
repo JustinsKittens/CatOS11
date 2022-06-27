@@ -19,6 +19,7 @@ So from Turbowarp click the Addons button in the top left and make sure you have
 1 Icon sprite per app
     It must have 2 types: taskbar and desktop.
     each type must have 3 states with these EXACT names:
+    
              Taskbar  | Desktop
         ------------- | -------------
     taskbar           | desktop
