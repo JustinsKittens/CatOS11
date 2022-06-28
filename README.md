@@ -10,10 +10,10 @@ If you want a quickstart, download the exampleApp.sb3 file, go to turbowarp.org 
 
 ### EASY DEVELOPING REQUIREMENTS ###
 #### A web browser ####
-If you're on Windows 10, then you'll need a web browser once. Otherwise, you'll need a web browser every time you use or develop for CatOS11.
-For Windows 10, you can go to https://desktop.turbowarp.org and download the desktop version of Turbowarp. For anything else, go to https://turbowarp.org and use it from there.
+If you're on Windows, MacOS, or Linux, then you'll need a web browser once. Otherwise, you'll need a web browser every time you use or develop for CatOS11.
+For Windows, MacOS, or Linux, you can go to https://desktop.turbowarp.org and download the desktop version of Turbowarp. For anything else, go to https://turbowarp.org and use it from there.
 #### Addons ####
-So from Turbowarp click the Addons button in the top left and make sure you have these things enabled:
+So from Turbowarp, click the Addons button in the top left and make sure you have these things enabled:
 Developer Tools
     ENHANCE "CLEAN UP BLOCKS"
 File Drag and Drop
