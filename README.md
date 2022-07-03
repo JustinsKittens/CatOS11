@@ -13,31 +13,31 @@ If you want a quickstart, download the exampleApp.sb3 file, go to turbowarp.org 
 If you're on Windows, MacOS, or Linux, then you'll need a web browser once. Otherwise, you'll need a web browser every time you use or develop for CatOS11.
 For Windows, MacOS, or Linux, you can go to https://desktop.turbowarp.org and download the desktop version of Turbowarp. For anything else, go to https://turbowarp.org and use it from there.
 #### Addons ####
-So from Turbowarp, click the Addons button in the top left and make sure you have these things enabled:
-Developer Tools
-    ENHANCE "CLEAN UP BLOCKS"
-File Drag and Drop
-    USE HD UPLOADS
-Pause Button
-Mouse Position
-HD Image Uploads
-    Original Size
-Variable Mananger
-Gamepad Support (If you want to use controllers in your app or game)
-Sprite Folders
-Block Switching
-   Every Option
-   Arguments in own custom block
-Remove Curved Stage Border
-Grab Single Block with Ctrl key
-Hide New Variables
-Extra Key Support
-   ENABLE EXPERIMENTAL KEYS
-   ENABLE SHIFT KEYS
-   ENABLE TURBOWARP KEYS
-Do Not Shift Pasted Items
-Duplicate scripts with Alt key
-Switch variables between "For all sprites" and "For this sprite only"
+So from Turbowarp, click the Addons button in the top left and make sure you have these things enabled:\
+Developer Tools\
+    ENHANCE "CLEAN UP BLOCKS"\
+File Drag and Drop\
+    USE HD UPLOADS\
+Pause Button\
+Mouse Position\
+HD Image Uploads\
+    Original Size\
+Variable Mananger\
+Gamepad Support (If you want to use controllers in your app or game)\
+Sprite Folders\
+Block Switching\
+   Every Option\
+   Arguments in own custom block\
+Remove Curved Stage Border\
+Grab Single Block with Ctrl key\
+Hide New Variables\
+Extra Key Support\
+   ENABLE EXPERIMENTAL KEYS\
+   ENABLE SHIFT KEYS\
+   ENABLE TURBOWARP KEYS\
+Do Not Shift Pasted Items\
+Duplicate scripts with Alt key\
+Switch variables between "For all sprites" and "For this sprite only"\
 Enable some other addons if you want to.
 
 ### APP REQUIREMENTS ###
