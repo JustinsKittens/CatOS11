@@ -40,7 +40,9 @@ Duplicate scripts with Alt key
 Switch variables between "For all sprites" and "For this sprite only"
 Enable some other addons if you want to.
 
-### Sprites ###
+### APP REQUIREMENTS ###
+
+#### Sprites ####
 1 Icon sprite per app
     It must have 2 types: taskbar and desktop.
     When you click it, it must send a broadcast named (appName)Open (Replace {appName} with the name of your app.)
